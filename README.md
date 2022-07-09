@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SarahWett, a junior web developer
-- 🌱 I’m currently learning JavaScript & React
-- 💞️ I’m looking to collaborate on projects to deepen my ability
-- 📫 How to reach me ...
+Hi, 
+I’m @SarahWett, a junior web developer from Cologne, Germany 👩🏻‍💻
+
+I’m currently learning JavaScript & React 🙇🏻‍♀️
 
 <!---
 SarahWett/SarahWett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
