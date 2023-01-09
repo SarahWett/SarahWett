@@ -1,26 +1,31 @@
 
 
-![IMG](https://images.unsplash.com/photo-1543616991-75a2c125ff5b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bGVhcm5pbmclMjBhbmQlMjBkZXZlbG9wbWVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60)
+<img src="https://images.unsplash.com/photo-1596276122653-651a3898309f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3132&q=80" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="180" />
+
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-wettengel/)
 
-## Hey - happy you found me! 
 
-## My name is Sarah - a junior web developer from Cologne, Germany 👩🏻‍💻
+## Happy you found me! 
+
+## My name is *Sarah* <br>
+ IT Project Manager goes Web Development! 👩🏻‍💻
 
 ### Familiar with:
-+ **HTML/ CSS**
-+ **GIT**
-+ **Figma**
-+ **Miro**
-+ **Scrum**
-+ **IT Project Management**
-+ **Ruby - Basics**
++ *HTML/ CSS*
++ *GIT*
++ *JavaScript*
++ *Ruby - Basics*
++ *Figma*
++ *Miro*
++ *Scrum*
++ *IT Project Management*
+
 
 ### Currently learning 🙇🏻‍♀️
-+ **JavaScript** 
-+ **React**
-+ **Typescript**
+
++ *React*
++ *Typescript*
 
 <!---
 SarahWett/SarahWett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
