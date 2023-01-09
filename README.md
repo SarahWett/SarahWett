@@ -1,4 +1,4 @@
-# Hi, 
+## Hi, 
 ## I’m @SarahWett, a junior web developer from Cologne, Germany 👩🏻‍💻
 
 I’m currently learning **JavaScript & React** 🙇🏻‍♀️
