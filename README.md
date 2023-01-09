@@ -1,5 +1,6 @@
-## Hi, 
-## I’m @SarahWett, a junior web developer from Cologne, Germany 👩🏻‍💻
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-wettengel/)
+
+## Hi, I’m @SarahWett, a junior web developer from Cologne, Germany 👩🏻‍💻
 
 I’m currently learning **JavaScript & React** 🙇🏻‍♀️
 
