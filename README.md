@@ -17,7 +17,7 @@
 
 | Familiar with:   💻                     | Currently Learning:  🙇🏻‍♀️                 |
  | ------------------------------- | --------------------------------- |
- | [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,figma,)](https://skills.thijs.gg)                | [![My Skills](https://skills.thijs.gg/icons?i=react,)](https://skills.thijs.gg)             |
+ | [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,figma,git,ruby)](https://skills.thijs.gg)                | [![My Skills](https://skills.thijs.gg/icons?i=react,mongodb,nextjs,nodejs,ts)](https://skills.thijs.gg)             |
  
 
 <!---
