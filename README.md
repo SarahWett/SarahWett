@@ -1,31 +1,32 @@
 
 
-<img src="https://images.unsplash.com/photo-1596276122653-651a3898309f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3132&q=80" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="180" />
 
 
+
+
+## Happy your User Journey brought you here! 
+<img src="https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50%" height="280"/>
+
+
+## My name is *Sarah* <br>
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-wettengel/)
 
-
-## Happy you found me! 
-![MP4](Button.mp4)
-## My name is *Sarah* <br>
  IT Project Manager goes Web Development! 👩🏻‍💻
 
-### Familiar with:
-+ *HTML/ CSS*
-+ *GIT*
-+ *JavaScript*
-+ *Ruby - Basics*
-+ *Figma*
-+ *Miro*
-+ *Scrum*
-+ *IT Project Management*
 
 
-### Currently learning 🙇🏻‍♀️
-
-+ *React*
-+ *Typescript*
+| Familiar with:   💻                     | Currently Learning:  🙇🏻‍♀️                 |
+ | ------------------------------- | --------------------------------- |
+ | [x] HTML/CSS                | [ ] React             |
+ | [x] JavaScript Basics                | [ ] TypeScript            |
+ | [x] Ruby - Basics               | [ ] Mocha         |
+ | [x] GIT                        | [ ] MongoDB                   |
+ | [x] FIGMA                        | [ ] Node.js                 |
+ | [x] Miro                 |                 |
+ | [x] Scrum             |              |
+ | [x] IT Project Management |  |
+ | [x] JSON                           |            |
+ 
 
 <!---
 SarahWett/SarahWett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
