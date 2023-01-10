@@ -7,7 +7,7 @@
 
 
 ## Happy you found me! 
-![GIF](Blue and White  Modern Online Courses Canvas Button.mp4)
+![MP4](Button.mp4)
 ## My name is *Sarah* <br>
  IT Project Manager goes Web Development! 👩🏻‍💻
 
