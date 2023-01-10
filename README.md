@@ -17,15 +17,7 @@
 
 | Familiar with:   💻                     | Currently Learning:  🙇🏻‍♀️                 |
  | ------------------------------- | --------------------------------- |
- | [x] HTML/CSS                | [ ] React             |
- | [x] JavaScript Basics                | [ ] TypeScript            |
- | [x] Ruby - Basics               | [ ] Mocha         |
- | [x] GIT                        | [ ] MongoDB                   |
- | [x] FIGMA                        | [ ] Node.js                 |
- | [x] Miro                 |                 |
- | [x] Scrum             |              |
- | [x] IT Project Management |  |
- | [x] JSON                           |            |
+ | [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,figma,)](https://skills.thijs.gg)                | [![My Skills](https://skills.thijs.gg/icons?i=react,)](https://skills.thijs.gg)             |
  
 
 <!---
