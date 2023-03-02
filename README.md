@@ -4,8 +4,9 @@
 
 
 
-## Happy your User Journey brought you here! 
-<img src="https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50%" height="280"/>
+## Hey there, I'm happy you found me here! 
+![ GIF of Laptop & Coffee in DarkMode](138767-laptop-animatiion.gif)
+
 
 
 ## My name is *Sarah* <br>
